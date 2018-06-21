@@ -1,8 +1,7 @@
 # Cuckoo
 
-> Cuckoo 
+> See the world. Make the world. 
 > 
-See the world. Make the world.
 
 About Cuckoo. 
 
