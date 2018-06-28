@@ -7,7 +7,7 @@ About Cuckoo.
 
 This is a blockchain application. 
 
-Any resource stored in Cuckoo, including text, images, sounds, videos and website code, will generate a unique address after hashing. Now you can open them just by this address. And this address can be shared. 
+Any resource stored in Cuckoo, including text, images, sounds, videos and website code, will generate an unique address after hashing. Now you can open them just by this address. And this address can be shared. 
 
 Because of the protection of the encryption algorithm, the address has the characteristics of being tamper-resistant and cannot be deleted (in a sense, if the password is cracked, it may be tampered with or deleted, but the probability is extremely low). So, once the data is stored in Cuckoo, it will be permanent. 
 
