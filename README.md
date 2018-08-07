@@ -17,8 +17,6 @@ In Cuckoo, we record, share and deliver every important moment in this way. You 
 
 At present, the first edition only supports video sharing. Later, it will gradually enrich audio, text and other content. 
 
-![Cuckoo](images/cuckoo.png)
-
 ## Donate Cuckoo
 
 Donate to support Cuckoo's development. All donation will be used to build a more decentralized, more globally accessible, more free and more trustworthy Cuckoo.
