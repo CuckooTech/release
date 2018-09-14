@@ -7,6 +7,10 @@
 
 Cuckoo is a decentralized video player based on P2P connection.Cuckoo is free and always will be.Anyone or group can search, make, share and watch your favorite videos in Cuckoo without any limits or registration.
 
+|               Index               |              List               |               Player                |
+| :-------------------------------: | :-----------------------------: | :---------------------------------: |
+| ![Cuckoo Index](images/cuckoo-index.png) | ![Cuckoo List](images/cuckoo-list.png) | ![Cuckoo Player](images/cuckoo-player.png) |
+
 Any resources stored in Cuckoo, including text, images, sounds, videos and website code, will generate an unique address after hashing and you can play and share videos just by this code in Cuckoo which is totally anonymous. As the P2P connection, the more you subscribe and use Cuckoo, the faster it will be.
 
 Because of the protection of the encryption algorithm and P2P connection, every channel's address in Cuckoo has the characteristics of being tamper-resistant and cannot be deleted (in a sense, if the password is cracked, it may be tampered with or deleted, but the probability is extremely low). So, once the video or data is stored in Cuckoo, it will be permanent.
